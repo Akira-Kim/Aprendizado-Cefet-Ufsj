@@ -1,0 +1,248 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "alterar",
+            "cwd": "alterar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "alterar (profile mode)",
+            "cwd": "alterar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "alterar (release mode)",
+            "cwd": "alterar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "aprendendoaprogramaremflutter",
+            "cwd": "aprendendoaprogramaremflutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "aprendendoaprogramaremflutter (profile mode)",
+            "cwd": "aprendendoaprogramaremflutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "aprendendoaprogramaremflutter (release mode)",
+            "cwd": "aprendendoaprogramaremflutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "avaliativa",
+            "cwd": "avaliativa",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "avaliativa (profile mode)",
+            "cwd": "avaliativa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "avaliativa (release mode)",
+            "cwd": "avaliativa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "componentequest",
+            "cwd": "componentequest",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "componentequest (profile mode)",
+            "cwd": "componentequest",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "componentequest (release mode)",
+            "cwd": "componentequest",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "componentesimplis",
+            "cwd": "componentesimplis",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "componentesimplis (profile mode)",
+            "cwd": "componentesimplis",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "componentesimplis (release mode)",
+            "cwd": "componentesimplis",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "componente_resposta",
+            "cwd": "componente_resposta",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "componente_resposta (profile mode)",
+            "cwd": "componente_resposta",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "componente_resposta (release mode)",
+            "cwd": "componente_resposta",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "fixa",
+            "cwd": "fixa",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fixa (profile mode)",
+            "cwd": "fixa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fixa (release mode)",
+            "cwd": "fixa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lita1",
+            "cwd": "lita1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lita1 (profile mode)",
+            "cwd": "lita1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lita1 (release mode)",
+            "cwd": "lita1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "navegacao",
+            "cwd": "navegacao",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "navegacao (profile mode)",
+            "cwd": "navegacao",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "navegacao (release mode)",
+            "cwd": "navegacao",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "primeiro_projeto",
+            "cwd": "primeiro_projeto",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "primeiro_projeto (profile mode)",
+            "cwd": "primeiro_projeto",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "primeiro_projeto (release mode)",
+            "cwd": "primeiro_projeto",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "questionariop",
+            "cwd": "questionariop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "questionariop (profile mode)",
+            "cwd": "questionariop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "questionariop (release mode)",
+            "cwd": "questionariop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "resolucao",
+            "cwd": "resolucao",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "resolucao (profile mode)",
+            "cwd": "resolucao",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "resolucao (release mode)",
+            "cwd": "resolucao",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
