@@ -1,0 +1,32 @@
+# Nome do compilador
+CC = gcc
+
+# Flags de compilação
+CFLAGS = -Wall -g
+
+# Nome do executável
+EXEC = programa
+
+# Arquivos fonte e objetos
+SRC = main.c ListaPrioridade.c
+OBJ = main.o ListaPrioridade.o
+
+# Regra padrão: compilar o programa completo
+all: $(EXEC)
+
+# Regra para gerar o executável a partir dos objetos
+$(EXEC): $(OBJ)
+	$(CC) $(CFLAGS) $(OBJ) -o $(EXEC)
+
+# Regra para compilar main.c em main.o
+main.o: main.c listaprioridade.h
+	$(CC) $(CFLAGS) -c main.c -o main.o
+
+# Regra para compilar util.c em util.o
+util.o: ListaPrioridade.c listaprioridade.h
+	$(CC) $(CFLAGS) -c ListaPrioridade.c -o ListaPrioridade.o
+
+# Limpa os arquivos gerados pela compilação
+clean:
+	rm -f $(OBJ) $(EXEC)
+
